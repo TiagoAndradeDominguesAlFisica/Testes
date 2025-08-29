@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Isto é um comentário HTML -->
+
+    <title>Exploração cotidiana</title>
+
+    <!-- os próximos duas linhas são somente necessários se quiser usar as funcionalidades do Bootstrap. Veja https://getbootstrap.com/docs/5.3/components/badge/ e as outras possibilidades em Components -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+
+
+    <!-- Deve salvar seu arquivo no encoding UTF8 -->
+    <meta http-equiv="Content-Type" content="text/html charset=utf-8" >
+    
+    <!-- Tente mudar o CSS --> 
+    <style type="text/css">
+       body{background-color: rgb(230, 229, 176);}
+      	h1 { background: #9c501d; }
+      	ul { border: 1px solid rgb(0, 0, 0);}
+    </style>
+  </head>
+  <body>
+    
+    <h1><b>Exploração Cotidiana</b></h1>
+    <p>Explorações observações, descrições, descobertas do cotidiano!: <a href="https://atlasescolar.ibge.gov.br/">Atlas Geográfico</a>.</p>
+    <ol>
+      <li>Atlas de Observações </li>
+      <li>Descobertas</li>
+      <li>Descrições e desenhos</li>
+    </ol>
+    <p>Contribuições, atualizações, e desenvolvimento serão fornecido aqui: <button type="button" class="btn btn-success btn-sm">Notícias e relatórios </button></p>
+  </body>
+</html>
